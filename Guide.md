@@ -1,8 +1,4 @@
 <p align="center">
-  ![Polymer](img/Polymer.jpg) 
-</p>
-
-<p align="center">
   <img src="img/Polymer.jpg" alt="Polymer">
 </p>
 
