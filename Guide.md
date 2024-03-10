@@ -1,4 +1,6 @@
-![Polymer](img/Polymer.jpg)
+<p align="center">
+  ![Polymer](img/Polymer.jpg) 
+</p>
 
 Polymer Labs . Establishing the next generation of the internet, by scaling IBC interoperability to all blockchains. | [polymerlabs.org](http://polymerlabs.org)
 
@@ -8,7 +10,7 @@ Polymer Labs . Establishing the next generation of the internet, by scaling IBC 
 https://github.com/open-ibc/ibc-app-solidity-template/tree/main
 ```
 
-(img/gh_template.png)
+![Polymer](img/gh_template.png)
 
 ## Installation Package
 
@@ -68,7 +70,7 @@ https://optimism-sepolia.blockscout.com/account/api-key
 https://base-sepolia.blockscout.com/account/api-key
 ```
 
-(img/API.webp)
+![Polymer](img/API.webp)
 
 ## Create Alchemi API Key for OP and Base
 
@@ -76,7 +78,7 @@ https://base-sepolia.blockscout.com/account/api-key
 https://docs.alchemy.com/docs/alchemy-quickstart-guide
 ```
 
-(img/alchemy_apps.webp)
+![Polymer](img/alchemy_apps.webp)
 
 ## Configuration
 
@@ -104,7 +106,7 @@ nano .env
 just install
 ```
 
-(img/env.webp)
+![Polymer](img/env.webp)
 
 ```
 PRIVATE KEY = 'FILL_YOUR_PRIVATE_KEY'
@@ -131,9 +133,9 @@ https://www.alchemy.com/faucets/base-sepolia
 just do-it
 ```
 
-(img/success_txn.png)
+![Polymer](img/success_txn.png)
 
 ### Done Packet has been sent!
 ### Check your channel IBC on https://sepolia.polymer.zone/packets
 
-(img/Packets.webp)
+![Polymer](img/Packets.webp)
