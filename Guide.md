@@ -2,6 +2,11 @@
   ![Polymer](img/Polymer.jpg) 
 </p>
 
+<p align="center">
+  <img src="img/Polymer.jpg" alt="Polymer">
+</p>
+
+
 Polymer Labs . Establishing the next generation of the internet, by scaling IBC interoperability to all blockchains. | [polymerlabs.org](http://polymerlabs.org)
 
 ## Use template
